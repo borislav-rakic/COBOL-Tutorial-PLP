@@ -1,6 +1,9 @@
 # Setting up COBOL
 This document will explain how to install the GnuCOBOL compiler on macOS, Linux, and Windows, and how to set up Visual Studio Code for COBOL coding.
 
+## emp_file.dat
+Make sure to download this file and put it right next to your COBOL program during the tutorial (if you decide to code along).
+
 ## macOS
 Make sure you have a C compiler installed by running the following command:
 
