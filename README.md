@@ -19,7 +19,7 @@ xcode-select --install
 
 The simplest way of installing GnuCOBOL on macOS is through homebrew. If you do not have homebrew installed, you have two options:
 
-1.	<b>(Recommended)</b> Install homebrew https://brew.sh, then simply install GnuCOBOL using the command “brew install gnucobol”
+1.	<b>(Recommended)</b> Install homebrew https://brew.sh, then simply install GnuCOBOL using the command `brew install gnucobol`
 2.	Compile GnuCOBOL yourself without homebrew https://gnucobol.sourceforge.io
 
 If you decide to go with option 2, there are instructions on how to compile GnuCOBOL in the README file, when you click on the button saying “MacOS”.
@@ -48,7 +48,7 @@ sudo dnf groupinstall "Development Tools"
 
 The simplest way of installing GnuCOBOL on macOS is through homebrew. If you do not have homebrew installed, you have two options:
 
-1.	<b>(Recommended)</b> Install homebrew https://brew.sh, then simply install GnuCOBOL using the command “brew install gnucobol”
+1.	<b>(Recommended)</b> Install homebrew https://brew.sh, then simply install GnuCOBOL using the command `brew install gnucobol`
 2.	Compile GnuCOBOL yourself without homebrew https://gnucobol.sourceforge.io
 
 If you decide to go with option 2, there are instructions on how to compile GnuCOBOL in the README file, when you click on the button saying “Linux”.
